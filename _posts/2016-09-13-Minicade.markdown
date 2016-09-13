@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2016-09-13
+img: game.png
+alt: image-alt
+project-date: Ongoing
+client: Me
+category: Personal Game Project
+description: A solo project to allow people to create small video games (minigames) easier. 
+
+---
