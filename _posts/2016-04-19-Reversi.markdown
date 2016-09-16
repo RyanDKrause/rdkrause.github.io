@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 11
-date: 2016-09-13
+modal-id: 5
+date: 2016-04-19
 img: game.png
 alt: image-alt
 project-date: April 2016
 client: Iowa State University
 category: Class Game Project
-description: A group project to create a game for the U.S.S. Iowa battleship. 
+description: Reversi Project created in Unity. Programmed with an AI.
 
 ---

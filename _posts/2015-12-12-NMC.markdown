@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2016-09-13
+img: game.png
+alt: image-alt
+project-date: Dec 2015
+client: Iowa State University
+category: Class Game Project
+description: NMC is a game created for Com Sci 309. https://www.youtube.com/watch?v=JovayafWCA0
+
+---

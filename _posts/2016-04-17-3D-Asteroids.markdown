@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 9
+modal-id: 4
 date: 2016-09-13
 img: game.png
 alt: image-alt
-project-date: May 2017
+project-date: April 2016
 client: Iowa State University
 category: Class Game Project
-description: Video Game Development Capstone course.
+description: ComSci 437 Monogame Project
 
 ---
