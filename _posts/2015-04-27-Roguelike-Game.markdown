@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2016-09-13
+date: 2015-04-27
 img: rogue.png
 alt: image-alt
 project-date: April 2015

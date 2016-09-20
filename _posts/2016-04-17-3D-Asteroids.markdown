@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2016-09-13
+date: 2016-04-17
 img: asteroid.png
 alt: image-alt
 project-date: April 2016
