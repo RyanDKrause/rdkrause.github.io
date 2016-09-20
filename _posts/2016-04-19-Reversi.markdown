@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2016-04-19
-img: game.png
+img: reversi.png
 alt: image-alt
 project-date: April 2016
 client: Iowa State University
