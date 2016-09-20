@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-04-28
-img: safe.png
+img: bigstick.png
 alt: image-alt
 project-date: April 2016
 client: Iowa State University
