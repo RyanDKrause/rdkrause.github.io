@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Ongoing
 client: Me
 category: Personal Game Project
-description: Minicade is an arcade for minigames, simple as that. But the thing that makes this special, is all minigames are created by the community. Using <a href="https://www.stuorg.iastate.edu/site/isu-gdc/minicade">my Minigame Tool in Unity,</a> anyone can make a minigame. With Minicade, I hope to help get more people into Game Development, without having to plan a large game.  
+description: Minicade is an arcade for minigames, simple as that. But the thing that makes this special, is all minigames are created by the community. Using <a href="https://www.stuorg.iastate.edu/site/isu-gdc/minicade" target="_blank">my Minigame Tool in Unity,</a> anyone can make a minigame. With Minicade, I hope to help get more people into Game Development, without having to plan a large game.  
 
 ---
