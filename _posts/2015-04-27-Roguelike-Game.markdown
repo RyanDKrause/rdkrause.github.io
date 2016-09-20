@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2015
 client: Iowa State University
 category: Class Project
-description: Roguelike Dungeon game created for Com Sci 229 programmed in C/C++.
+description: This Rogue-like Dungeon game was created for Com Sci 229. It was a class assignment, programmed in C and C++ with specific requirements. Features include random dungeon generation, saving/loading, pathfinding monsters using Dijkstra's, items/equipment screen, and combat. 
 
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Dec 2015
 client: Iowa State University
 category: Class Game Project
-description: NMC is a game created for Com Sci 309. <a href="https://www.youtube.com/watch?v=JovayafWCA0">Video Demo</a>
+description: NMC is a game created for Com Sci 309. I was on a team with four other people, and we were tasked with creating a project in a semester. NMC was based off of Minecraft, a sandbox game where you build and destroy your world. There are monsters that spawn, and the player needs to build a fort to defend themselves and kill them with their sword. NMC is a multiplayer game, so you can play with your friends. NMC is also playable on the Oculus Rift, to allow better control and feel more immersed in the world. We fully planned out our game with use cases, functional requirements, and scenarios. We were voted the best project in the class. <a href="https://www.youtube.com/watch?v=JovayafWCA0">Video Demo</a>
 
 ---

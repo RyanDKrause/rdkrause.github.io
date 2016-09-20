@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2016
 client: Iowa State University
 category: Class Game Project
-description: A group project to create a game for the U.S.S. Iowa battleship. 
+description: The Big Stick was a group project in my ComS 437 class. Our client, the head of the U.S.S. Iowa Battleship museum in California, tasked us to create a game relating to the U.S.S. Iowa.  
 
 ---
