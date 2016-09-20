@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2016-09-10
-img: game.png
+img: minicade.png
 alt: image-alt
 project-date: Ongoing
 client: Me

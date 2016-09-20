@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2016-09-13
-img: game.png
+img: asteroid.png
 alt: image-alt
 project-date: April 2016
 client: Iowa State University

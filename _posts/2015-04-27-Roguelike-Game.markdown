@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-09-13
-img: game.png
+img: rogue.png
 alt: image-alt
 project-date: April 2015
 client: Iowa State University
