@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2016
 client: Iowa State University
 category: Class Game Project
-description: Reversi was assigned in my ComS 437 class. It was programmed in Unity and C#. The main goal of this project was to create an AI that was smart enough to beat my teacher. I used a Min-Maxing that looked anywhere between 1 to 12 moves ahead, but because of the exponential growth of moves, above 7 moves the game slows down. 
+description: Reversi was assigned in my ComS 437 class. It was programmed in Unity and C#. The main goal of this project was to create an AI that was smart enough to beat my teacher. I used a Min-Maxing that looked anywhere between 1 to 12 moves ahead, but because of the exponential growth of moves, above 7 moves the game slows down. <p><a href="https://github.com/say892/Reversi437" target="_blank">View on Github</a> - <a href="https://rdkrause.itch.io/reversi" target="_blank">Play Online</a></p>
 
 ---
