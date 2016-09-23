@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2016
 client: Iowa State University
 category: Class Game Project
-description: This Asteroids game was created for my ComS 437 class. It was developed using Monogame and C#. Some of the new skills I learned from this project was the ability to build a game scene through code, as well as writing my own collision/physics for asteroids.   <p><a href="https://github.com/say892/3DAsteroids" target="_blank">View on Github</a></p>
+description: This Asteroids game was created for my ComS 437 class. It was developed using Monogame and C#. Some of the new skills I learned from this project was the ability to build a game scene through code, as well as writing my own collision/physics for asteroids.   <p><a href="https://github.com/say892/3DAsteroids" target="_blank">View on Github</a> - <a href="downloads/3DAsteroidFinal">Download the Game</a></p>
 
 ---
